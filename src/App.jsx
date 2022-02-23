@@ -1,5 +1,5 @@
 import React from 'react'
-import { Routes as Switch, Route, NavLink as Link } from 'react-router-dom';
+import { Routes as Switch, Route, Link } from 'react-router-dom';
 import { Layout, Typography, Space } from 'antd';
 
 import { Navbar, Exchanges, Homepage, Cryptocurrencies, Cryptodetails, News } from './components';
@@ -30,7 +30,7 @@ const app = () => {
           </Typography.Title>
           <Space>
             <Link to="/">Home</Link>
-            <Link to="/exchanges">Exchanges</Link>
+            <Link to="/cryptocurrencies">Cryptos</Link>
             <Link to="/news">News</Link>
           </Space>
         </div>

@@ -394,8 +394,3 @@ a:hover {
     padding: 20px;
     align-items: center;
 }
-
-.active {
-    background-color: #1890FF;
-    color: #000;
-}
