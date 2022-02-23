@@ -6,7 +6,7 @@ It is divided in 3 parts and a detail page where you can read the info about one
 
 ## Homepage
 
-This page contains a brief about the other site pages and has global statistics about cryptos.
+This page contains a brief look to the other site pages and has global statistics about cryptos.
 
 ![](homepage1.png)
 ![](homepage2.png)
